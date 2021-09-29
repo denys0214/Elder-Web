@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`#perf works in performance 1`] = `
+Object {
+  "htmlString": "",
+  "perf": Object {
+    "end": [Function],
+    "start": [Function],
+    "stop": [Function],
+    "timings": Array [
+      Object {
+        "duration": 0.05,
+        "name": "Page",
+      },
+    ],
+  },
+  "settings": Object {
+    "debug": Object {
+      "performance": true,
+    },
+  },
+  "uid": "xxxxxxxx",
+}
+`;
